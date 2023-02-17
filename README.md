@@ -1,5 +1,7 @@
 ---
-layout: editorial
+cover: >-
+  https://images.unsplash.com/photo-1550745165-9bc0b252726f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHx0ZWNofGVufDB8fHx8MTY3NjY1NDEyOA&ixlib=rb-4.0.3&q=80
+coverY: 0
 ---
 
 # Home
