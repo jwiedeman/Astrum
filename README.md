@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Home
 
 Welcome to our analytics knowledgebase! Here, you'll find a wealth of information and resources to help you learn about analytics, and how to use it to gain valuable insights and make data-driven decisions. Our knowledgebase is designed to be a comprehensive resource for anyone looking to learn about analytics, whether you're a beginner or an experienced user.\
