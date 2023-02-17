@@ -1,2 +1,0 @@
-# Magento V1
-
