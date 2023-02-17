@@ -217,6 +217,7 @@
       * [Tidio](platforms-web/3rd-party-services/chat/tidio.md)
     * [xola](platforms-web/3rd-party-services/xola.md)
     * [Form Tracking](platforms-web/3rd-party-services/form-tracking/README.md)
+      * [Cognito Forms](platforms-web/3rd-party-services/form-tracking/cognito-forms.md)
       * [Contact Form 7](platforms-web/3rd-party-services/form-tracking/contact-form-7.md)
       * [Elementor](platforms-web/3rd-party-services/form-tracking/elementor.md)
       * [Powr.io](platforms-web/3rd-party-services/form-tracking/powr.io.md)
