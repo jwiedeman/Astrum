@@ -1,0 +1,2 @@
+# Data Lakes (AWS Redshift)
+
