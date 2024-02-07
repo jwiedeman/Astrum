@@ -10,6 +10,10 @@ Welcome to our analytics knowledgebase! Here, you'll find a wealth of informatio
 \
 You'll find Platform Specific sections which will contain nested information about subplatforms and how to use and administer them.&#x20;
 
+{% content-ref url="https://app.gitbook.com/o/jfT52dp1ud31WMtHr5vY/snippet/6863" %}
+[test snippet](https://app.gitbook.com/o/jfT52dp1ud31WMtHr5vY/snippet/6863)
+{% endcontent-ref %}
+
 {% content-ref url="platforms-web/" %}
 [platforms-web](platforms-web/)
 {% endcontent-ref %}
